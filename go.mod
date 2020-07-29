@@ -1,4 +1,4 @@
-module guacamole
+module github.com/seknox/guacamole
 
 go 1.14
 
